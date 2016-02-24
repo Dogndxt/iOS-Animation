@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3602E1611C6089860076EB28 /* DWBubbleMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3602E1601C6089860076EB28 /* DWBubbleMenuButton.m */; settings = {ASSET_TAGS = (); }; };
+		36318B7D1C5EFAD7000E8FD4 /* TransitionAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36318B7C1C5EFAD7000E8FD4 /* TransitionAnimationViewController.m */; settings = {ASSET_TAGS = (); }; };
+		36318B801C5F2BC9000E8FD4 /* AffineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36318B7F1C5F2BC9000E8FD4 /* AffineViewController.m */; settings = {ASSET_TAGS = (); }; };
+		3680959D1C61E37900CF8956 /* DCPathCenterButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3680959C1C61E37900CF8956 /* DCPathCenterButton.m */; settings = {ASSET_TAGS = (); }; };
+		368095A01C61FDE500CF8956 /* DCPathItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3680959F1C61FDE500CF8956 /* DCPathItemButton.m */; settings = {ASSET_TAGS = (); }; };
+		3683AFA81C643529005A9058 /* MCFireworksView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3683AFA71C643529005A9058 /* MCFireworksView.m */; settings = {ASSET_TAGS = (); }; };
+		368DF8301C6218CC00388F0A /* DCPathButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 368DF82F1C6218CC00388F0A /* DCPathButton.m */; settings = {ASSET_TAGS = (); }; };
+		36966CCC1C65CB9400194B33 /* MCFireworksButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 36966CCB1C65CB9400194B33 /* MCFireworksButton.m */; settings = {ASSET_TAGS = (); }; };
+		36CECC831C5E1DFD00007E7B /* KeyFramAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CECC821C5E1DFD00007E7B /* KeyFramAnimationViewController.m */; settings = {ASSET_TAGS = (); }; };
+		36CECC861C5E393F00007E7B /* GroupAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CECC851C5E393F00007E7B /* GroupAnimationViewController.m */; settings = {ASSET_TAGS = (); }; };
 		36D25A1B1C5CAFC1000C8446 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A1A1C5CAFC1000C8446 /* main.m */; };
 		36D25A1E1C5CAFC1000C8446 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A1D1C5CAFC1000C8446 /* AppDelegate.m */; };
 		36D25A211C5CAFC1000C8446 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A201C5CAFC1000C8446 /* ViewController.m */; };
@@ -15,6 +25,9 @@
 		36D25A291C5CAFC1000C8446 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36D25A271C5CAFC1000C8446 /* LaunchScreen.storyboard */; };
 		36D25A341C5CAFC1000C8446 /* iOS__Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A331C5CAFC1000C8446 /* iOS__Tests.m */; };
 		36D25A3F1C5CAFC1000C8446 /* iOS__UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A3E1C5CAFC1000C8446 /* iOS__UITests.m */; };
+		36D25A4E1C5CB026000C8446 /* TitleButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A4D1C5CB026000C8446 /* TitleButton.m */; settings = {ASSET_TAGS = (); }; };
+		36D25A511C5CB190000C8446 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A501C5CB190000C8446 /* BaseViewController.m */; settings = {ASSET_TAGS = (); }; };
+		36D25A551C5CCF61000C8446 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D25A541C5CCF61000C8446 /* FirstViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +48,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3602E15F1C6089860076EB28 /* DWBubbleMenuButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DWBubbleMenuButton.h; sourceTree = "<group>"; };
+		3602E1601C6089860076EB28 /* DWBubbleMenuButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DWBubbleMenuButton.m; sourceTree = "<group>"; };
+		36318B7B1C5EFAD7000E8FD4 /* TransitionAnimationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransitionAnimationViewController.h; sourceTree = "<group>"; };
+		36318B7C1C5EFAD7000E8FD4 /* TransitionAnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransitionAnimationViewController.m; sourceTree = "<group>"; };
+		36318B7E1C5F2BC9000E8FD4 /* AffineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AffineViewController.h; sourceTree = "<group>"; };
+		36318B7F1C5F2BC9000E8FD4 /* AffineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AffineViewController.m; sourceTree = "<group>"; };
+		3680959B1C61E37900CF8956 /* DCPathCenterButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCPathCenterButton.h; sourceTree = "<group>"; };
+		3680959C1C61E37900CF8956 /* DCPathCenterButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCPathCenterButton.m; sourceTree = "<group>"; };
+		3680959E1C61FDE500CF8956 /* DCPathItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCPathItemButton.h; sourceTree = "<group>"; };
+		3680959F1C61FDE500CF8956 /* DCPathItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCPathItemButton.m; sourceTree = "<group>"; };
+		3683AFA61C643529005A9058 /* MCFireworksView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCFireworksView.h; sourceTree = "<group>"; };
+		3683AFA71C643529005A9058 /* MCFireworksView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCFireworksView.m; sourceTree = "<group>"; };
+		368DF82E1C6218CC00388F0A /* DCPathButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCPathButton.h; sourceTree = "<group>"; };
+		368DF82F1C6218CC00388F0A /* DCPathButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCPathButton.m; sourceTree = "<group>"; };
+		368DF8311C62234E00388F0A /* bloom.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bloom.caf; sourceTree = "<group>"; };
+		368DF8321C62236200388F0A /* fold.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = fold.caf; sourceTree = "<group>"; };
+		368DF8331C62237300388F0A /* selected.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = selected.caf; sourceTree = "<group>"; };
+		36966CCA1C65CB9400194B33 /* MCFireworksButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCFireworksButton.h; sourceTree = "<group>"; };
+		36966CCB1C65CB9400194B33 /* MCFireworksButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCFireworksButton.m; sourceTree = "<group>"; };
+		36CECC811C5E1DFD00007E7B /* KeyFramAnimationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyFramAnimationViewController.h; sourceTree = "<group>"; };
+		36CECC821C5E1DFD00007E7B /* KeyFramAnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyFramAnimationViewController.m; sourceTree = "<group>"; };
+		36CECC841C5E393F00007E7B /* GroupAnimationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupAnimationViewController.h; sourceTree = "<group>"; };
+		36CECC851C5E393F00007E7B /* GroupAnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupAnimationViewController.m; sourceTree = "<group>"; };
 		36D25A161C5CAFC1000C8446 /* iOS动画.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS动画.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D25A1A1C5CAFC1000C8446 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		36D25A1C1C5CAFC1000C8446 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +87,13 @@
 		36D25A3A1C5CAFC1000C8446 /* iOS动画UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS动画UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D25A3E1C5CAFC1000C8446 /* iOS__UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS__UITests.m; sourceTree = "<group>"; };
 		36D25A401C5CAFC1000C8446 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36D25A4C1C5CB026000C8446 /* TitleButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitleButton.h; sourceTree = "<group>"; };
+		36D25A4D1C5CB026000C8446 /* TitleButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitleButton.m; sourceTree = "<group>"; };
+		36D25A4F1C5CB190000C8446 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		36D25A501C5CB190000C8446 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		36D25A521C5CB4D0000C8446 /* Header.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.pch; sourceTree = "<group>"; };
+		36D25A531C5CCF61000C8446 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		36D25A541C5CCF61000C8446 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +146,7 @@
 			children = (
 				36D25A1C1C5CAFC1000C8446 /* AppDelegate.h */,
 				36D25A1D1C5CAFC1000C8446 /* AppDelegate.m */,
+				36D25A521C5CB4D0000C8446 /* Header.pch */,
 				36D25A1F1C5CAFC1000C8446 /* ViewController.h */,
 				36D25A201C5CAFC1000C8446 /* ViewController.m */,
 				36D25A221C5CAFC1000C8446 /* Main.storyboard */,
@@ -110,6 +154,35 @@
 				36D25A271C5CAFC1000C8446 /* LaunchScreen.storyboard */,
 				36D25A2A1C5CAFC1000C8446 /* Info.plist */,
 				36D25A191C5CAFC1000C8446 /* Supporting Files */,
+				368DF8321C62236200388F0A /* fold.caf */,
+				368DF8311C62234E00388F0A /* bloom.caf */,
+				368DF8331C62237300388F0A /* selected.caf */,
+				36D25A4C1C5CB026000C8446 /* TitleButton.h */,
+				36D25A4D1C5CB026000C8446 /* TitleButton.m */,
+				36D25A4F1C5CB190000C8446 /* BaseViewController.h */,
+				36D25A501C5CB190000C8446 /* BaseViewController.m */,
+				36D25A531C5CCF61000C8446 /* FirstViewController.h */,
+				36D25A541C5CCF61000C8446 /* FirstViewController.m */,
+				36CECC811C5E1DFD00007E7B /* KeyFramAnimationViewController.h */,
+				36CECC821C5E1DFD00007E7B /* KeyFramAnimationViewController.m */,
+				36CECC841C5E393F00007E7B /* GroupAnimationViewController.h */,
+				36CECC851C5E393F00007E7B /* GroupAnimationViewController.m */,
+				36318B7B1C5EFAD7000E8FD4 /* TransitionAnimationViewController.h */,
+				36318B7C1C5EFAD7000E8FD4 /* TransitionAnimationViewController.m */,
+				36318B7E1C5F2BC9000E8FD4 /* AffineViewController.h */,
+				36318B7F1C5F2BC9000E8FD4 /* AffineViewController.m */,
+				3602E15F1C6089860076EB28 /* DWBubbleMenuButton.h */,
+				3602E1601C6089860076EB28 /* DWBubbleMenuButton.m */,
+				3680959B1C61E37900CF8956 /* DCPathCenterButton.h */,
+				3680959C1C61E37900CF8956 /* DCPathCenterButton.m */,
+				3680959E1C61FDE500CF8956 /* DCPathItemButton.h */,
+				3680959F1C61FDE500CF8956 /* DCPathItemButton.m */,
+				368DF82E1C6218CC00388F0A /* DCPathButton.h */,
+				368DF82F1C6218CC00388F0A /* DCPathButton.m */,
+				3683AFA61C643529005A9058 /* MCFireworksView.h */,
+				3683AFA71C643529005A9058 /* MCFireworksView.m */,
+				36966CCA1C65CB9400194B33 /* MCFireworksButton.h */,
+				36966CCB1C65CB9400194B33 /* MCFireworksButton.m */,
 			);
 			path = "iOS动画";
 			sourceTree = "<group>";
@@ -271,7 +344,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				36D25A211C5CAFC1000C8446 /* ViewController.m in Sources */,
+				36CECC831C5E1DFD00007E7B /* KeyFramAnimationViewController.m in Sources */,
+				36318B7D1C5EFAD7000E8FD4 /* TransitionAnimationViewController.m in Sources */,
+				3602E1611C6089860076EB28 /* DWBubbleMenuButton.m in Sources */,
+				3680959D1C61E37900CF8956 /* DCPathCenterButton.m in Sources */,
+				36D25A551C5CCF61000C8446 /* FirstViewController.m in Sources */,
+				36966CCC1C65CB9400194B33 /* MCFireworksButton.m in Sources */,
+				36D25A511C5CB190000C8446 /* BaseViewController.m in Sources */,
 				36D25A1E1C5CAFC1000C8446 /* AppDelegate.m in Sources */,
+				368095A01C61FDE500CF8956 /* DCPathItemButton.m in Sources */,
+				36CECC861C5E393F00007E7B /* GroupAnimationViewController.m in Sources */,
+				3683AFA81C643529005A9058 /* MCFireworksView.m in Sources */,
+				36318B801C5F2BC9000E8FD4 /* AffineViewController.m in Sources */,
+				368DF8301C6218CC00388F0A /* DCPathButton.m in Sources */,
+				36D25A4E1C5CB026000C8446 /* TitleButton.m in Sources */,
 				36D25A1B1C5CAFC1000C8446 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +584,7 @@
 				36D25A451C5CAFC1000C8446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36D25A461C5CAFC1000C8446 /* Build configuration list for PBXNativeTarget "iOS动画Tests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +593,7 @@
 				36D25A481C5CAFC1000C8446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36D25A491C5CAFC1000C8446 /* Build configuration list for PBXNativeTarget "iOS动画UITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +602,7 @@
 				36D25A4B1C5CAFC1000C8446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

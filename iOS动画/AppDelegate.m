@@ -7,6 +7,11 @@
 //
 
 #import "AppDelegate.h"
+#import "FirstViewController.h"
+#import "KeyFramAnimationViewController.h"
+#import "GroupAnimationViewController.h"
+#import "TransitionAnimationViewController.h"
+#import "AffineViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,6 +21,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    AffineViewController *first = [[AffineViewController alloc] init];
+    self.window.rootViewController = first;
+    self.window.backgroundColor = [UIColor whiteColor];
+    [self.window makeKeyAndVisible];
     // Override point for customization after application launch.
     return YES;
 }
